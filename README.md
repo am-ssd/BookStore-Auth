@@ -342,13 +342,9 @@ Authorization: Bearer <your_jwt_token>
 
 <div align="center">
 
-### Niladri Chatterjee
+### Yuki Mori
 
 **Full Stack Developer** | MERN Stack Specialist
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niladri1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://niladri1.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:code.niladri+readme@gmail.com)
 
 </div>
 
